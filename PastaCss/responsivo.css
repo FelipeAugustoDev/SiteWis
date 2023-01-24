@@ -1,0 +1,34 @@
+@media(max-width: 740px) {
+    html{
+        font-size: 65%;
+    }
+}
+@media(max-width: 580px) {
+    html{
+        font-size: 40%;
+    }
+}
+
+
+@media(max-width: 1000px) {
+    .Lado-esquerdo{
+        display: none;
+    }
+}     
+@media(max-width: 475px){
+  .direita-chat{
+    width: 70vw;
+  }
+  .chat-container{
+    width: 100%;
+  }
+  .Lado-direito{
+    max-width: 100%;
+
+  }
+  .chat-geral{
+    width: 500px;
+  }
+
+
+}
